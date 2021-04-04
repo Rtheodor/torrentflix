@@ -105,6 +105,13 @@ header nav a:hover{
     width: 100%;
     display: block
 }
+.seta {
+    position: absolute;
+    padding: 20px;
+    box-shadow: 2px -2px 0 1px rgb(247, 245, 245) inset;
+    border: solid transparent;
+    border-width: 0 0 2px 2px;
+    }
 .carrosel-filmes{
     margin-top:5px;
 }
